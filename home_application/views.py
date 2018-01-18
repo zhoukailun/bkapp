@@ -10,6 +10,10 @@ See the License for the specific language governing permissions and limitations 
 """
 
 from common.mymako import render_mako_context
+from django.http import HttpResponse
+
+def index(request):
+    return HttpResponse('Da Peng si BK')
 
 
 def home(request):
