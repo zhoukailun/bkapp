@@ -31,9 +31,9 @@ from django.conf.global_settings import *  # noqa
 # ==============================================================================
 # 在蓝鲸智云开发者中心 -> 点击应用ID -> 基本信息 中获取 APP_ID 和 APP_TOKEN 的值
 APP_ID = 'bkapp'
-APP_TOKEN = 'e8c8b894-e597-4e84-89d6-95c3a92db540'
+APP_TOKEN = '7b37c2c4-4c61-4337-8c92-9ab52c2eecbe'
 # 蓝鲸智云开发者中心的域名，形如：http://paas.bking.com
-BK_PAAS_HOST = 'http://paas.bk.test2.garena.com:81'
+BK_PAAS_HOST = 'http://paas.pb.bk.garena.com'
 
 # 是否启用celery任务
 IS_USE_CELERY = True
