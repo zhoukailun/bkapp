@@ -22,7 +22,7 @@ DATABASES = {
         'NAME': 'bkapp',                        # 数据库名 (默认与APP_ID相同)
         'USER': 'root',                            # 你的数据库user
         'PASSWORD': 'YtX#_]O[6n',                        # 你的数据库password
-        'HOST': '10.38.0.20',                   		   # 数据库HOST
+        'HOST': '10.38.0.21',                   		   # 数据库HOST
         'PORT': '3306',                        # 默认3306
     },
 }
